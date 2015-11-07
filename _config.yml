@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Ed Nunes
+title:            Vanessa Nunes
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Ed Nunes
-  avatar: face1.png
-  bio: "Consultant. Web developer. Attorney. Entrepreneur."
+  name: Vanessa Nunes
+  avatar: v1.png
+  bio: "Doctor. Activist. Researcher. Advocate."
   email:
   disqus-shortname:
   twitter: #username
