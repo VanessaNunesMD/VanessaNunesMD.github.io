@@ -1,14 +1,14 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+ed_nunes:
+  name: Ed Nunes
+  web: http://nunes.online
+  email: info@nunes.online
+  bio: "Because you can't always get what you want."
+  avatar: face1.png
+  twitter:
   google:
-    plus: BillyRick
+    plus: 
 
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone
